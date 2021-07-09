@@ -30,4 +30,4 @@ System Users
 
 ## Class Diagram
 
-![image](https://user-images.githubusercontent.com/84759786/125037638-06ee1980-e0b2-11eb-9d97-9bdddb4caed6.png)
+![image](https://user-images.githubusercontent.com/84759786/125040489-5aae3200-e0b5-11eb-89f8-912fdd76ed59.png)
